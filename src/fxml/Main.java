@@ -1,4 +1,4 @@
-package fxml.one;
+package fxml;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
